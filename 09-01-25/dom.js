@@ -16,8 +16,8 @@ function remove(){
 }
 //Task-4
 function change(){
-    var paragraph=document.getElementById('change');
-    paragraph.innerText="Happy Sankranti and enjoy with your family";
+    var button=document.getElementById('change');
+    button.innerText="changed me";
 }
 //Task-5
 function addItem() {
