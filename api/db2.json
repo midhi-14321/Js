@@ -1,0 +1,27 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "midhilesh",
+      "age": 23
+    },
+    {
+      "name": "rakesh",
+      "id": "4",
+      "age": 24
+    },
+    {
+      "id": "3",
+      "name": "suresh babu"
+    },
+    {
+      "id": "5",
+      "name": "suresh raina"
+    }
+  ],
+  "products": [
+    "nuts",
+    "soaps",
+    "vegetables"
+  ]
+}
